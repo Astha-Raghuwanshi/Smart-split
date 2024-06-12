@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Smart-split/static/js/main.db30ce48.js",
+    "static/js/313.dc39f9bc.chunk.js": "/Smart-split/static/js/313.dc39f9bc.chunk.js",
+    "static/js/592.08154249.chunk.js": "/Smart-split/static/js/592.08154249.chunk.js",
+    "static/js/303.f2ea9fd6.chunk.js": "/Smart-split/static/js/303.f2ea9fd6.chunk.js",
+    "index.html": "/Smart-split/index.html",
+    "main.db30ce48.js.map": "/Smart-split/static/js/main.db30ce48.js.map",
+    "313.dc39f9bc.chunk.js.map": "/Smart-split/static/js/313.dc39f9bc.chunk.js.map",
+    "303.f2ea9fd6.chunk.js.map": "/Smart-split/static/js/303.f2ea9fd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.db30ce48.js"
+  ]
+}
