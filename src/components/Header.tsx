@@ -55,7 +55,7 @@ const Header = () => {
                     >
                         <Grid item>
                             <IconButton
-                                href="https://github.com/Astha-Raghuwanshi/Smart-split"//repo link
+                                href="https://github.com/Astha-Raghuwanshi/Smart-split"
                                 target="_blank"
                             >
                                 <GitHubIcon />
