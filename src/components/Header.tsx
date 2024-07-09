@@ -58,7 +58,6 @@ const Header = () => {
                                 href="https://github.com/Astha-Raghuwanshi/Smart-split"
                                 target="_blank"
                             >
-                                <GitHubIcon />
                             </IconButton>
                         </Grid>
                         <Grid item>
